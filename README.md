@@ -10,3 +10,5 @@ Finalmente abre la carpeta donde está el proyecto y visualízalo en tu editor d
 
 ### Recomendación
 Si usas Visual Studio Code, puedes usar la extensión "Live Share" para ejecutar el HTML de una forma mas sencilla.
+
+Proyecto realizado en https://roadmap.sh/projects/single-page-cv
